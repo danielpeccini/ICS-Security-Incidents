@@ -5,7 +5,6 @@ This repository has been created from the necessity to have a centralized databa
 
 The database is organized chronologically and aggregated by year. The sources of information are: press, public statement of companies, vendors reports.
 
-```markdown
 
 | 2019 | 2020  | 2021 |
 | ------------| ------------- | ------------- |
