@@ -7,8 +7,8 @@ The database is organized chronologically and aggregated by year. The sources of
 
 ```markdown
 
-
 # Header 1
+
 | First Header  | Second Header |
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
