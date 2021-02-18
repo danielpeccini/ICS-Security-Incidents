@@ -5,15 +5,13 @@ This repository has been created from the necessity to have a centralized databa
 
 The database is organized chronologically and aggregated by year. The sources of information are: press, public statement of companies, vendors reports.
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
 
+|2019| 2020  | 2021 |
+|------------| ------------- | ------------- |
+|Content Cell | Content Cell  | Content Cell  |
+|Content Cell | Content Cell  | Content Cell  |
 
 ```markdown
-
-# Header 1
 
 
 
