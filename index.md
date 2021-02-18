@@ -1,6 +1,6 @@
 ## Welcome to ICS Security Incidents Database
 
-dsdsadasd
+This repository has been created from the necessity to have a centralized database with the list of cybersecurity incidents in the Industrial Control System environment. 
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
