@@ -3,7 +3,7 @@
 This repository has been created from the necessity to have a centralized database with the list of cybersecurity incidents in the Industrial Control System environment. 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The database is organized chronologically and aggregated by year. The sources of information are: press, public statement of companies, vendors reports.
 
 ```markdown
 Syntax highlighted code block
