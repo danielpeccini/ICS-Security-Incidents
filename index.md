@@ -7,10 +7,10 @@ The database is organized chronologically and aggregated by year. The sources of
 
 ```markdown
 
-|2019| 2020  | 2021 |
-|------------| ------------- | ------------- |
-|Content Cell | Content Cell  | Content Cell  |
-|Content Cell | Content Cell  | Content Cell  |
+| 2019 | 2020  | 2021 |
+| ------------| ------------- | ------------- |
+| Content Cell | Content Cell  | Content Cell  |
+| Content Cell | Content Cell  | Content Cell  |
 
 
 
