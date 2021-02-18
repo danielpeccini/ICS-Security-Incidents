@@ -1,12 +1,12 @@
 ## Welcome to ICS Security Incidents Database
 
 This repository has been created from the necessity to have a centralized database with the list of cybersecurity incidents in the Industrial Control System environment. 
-### Markdown
+### Source of information
 
 The database is organized chronologically and aggregated by year. The sources of information are: press, public statement of companies, vendors reports.
 
 ```markdown
-Syntax highlighted code block
+
 
 # Header 1
 ## Header 2
